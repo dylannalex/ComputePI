@@ -21,3 +21,9 @@ circle_area = screen_area * (dots_in_circle / total_dots)
 # Use the circle_area approximation to calculate PI:
 PI = circle_area / (self._circle.radius ** 2)
 ```
+
+## Usage
+You can run the project with:
+```
+$ python compute_pi.py
+```
